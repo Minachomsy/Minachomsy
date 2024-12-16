@@ -1,0 +1,12 @@
+.wrapper {
+  height:100vh;
+  display: flex;
+  width: 200px;
+  justify-content: center;
+  align-items: center;
+}
+.small-box{
+  width: 400px;
+  height: 400px;
+  background-color: rgb(255, 255, 255);
+}
